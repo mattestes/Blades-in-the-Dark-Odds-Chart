@@ -8,7 +8,7 @@ import dice_odds
 
 plt.figure(figsize=(10,6))
 
-max_dice = 10
+max_dice = 4
 
 num_dice = []
 failure_odds = []
